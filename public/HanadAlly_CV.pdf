@@ -1,76 +1,46 @@
-%PDF-1.4
-1 0 obj
-<<
-/Type /Catalog
-/Pages 2 0 R
->>
-endobj
-
-2 0 obj
-<<
-/Type /Pages
-/Kids [3 0 R]
-/Count 1
->>
-endobj
-
-3 0 obj
-<<
-/Type /Page
-/Parent 2 0 R
-/MediaBox [0 0 612 792]
-/Contents 4 0 R
-/Resources <<
-/Font <<
-/F1 5 0 R
->>
->>
->>
-endobj
-
-4 0 obj
-<<
-/Length 200
->>
-stream
-BT
-/F1 24 Tf
-100 700 Td
-( Ally - Full Stack Developer) Tj
-/F1 14 Tf
-100 650 Td
-(Contact: .ally@example.com) Tj
-100 620 Td
-(GitHub: github.com/Ally) Tj
-100 590 Td
-(Skills: React, Node.js, Python, MongoDB, PostgreSQL) Tj
-100 560 Td
-(This is a sample CV. Replace with actual CV content.) Tj
-ET
-endstream
-endobj
-
-5 0 obj
-<<
-/Type /Font
-/Subtype /Type1
-/BaseFont /Helvetica
->>
-endobj
-
-xref
-0 6
-0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000115 00000 n 
-0000000274 00000 n 
-0000000526 00000 n 
-trailer
-<<
-/Size 6
-/Root 1 0 R
->>
-startxref
-623
-%%EOF
+Ali Hanad Mohammed
+Nakuru & Nairobi, Kenya | 0114235857 | alihanad@example.com | linkedin.com/in/ali-hanad |
+github.com/HanadAlly
+Professional Summary
+Motivated Software Engineering student at Moringa School, nearing graduation, with a strong foun-
+dation in IT from JKUAT (Certiﬁcate and Diploma). Proﬁcient in developing robust web applications
+using HTML, CSS, JavaScript, React, and SQL, with additional expertise in C and C++. Passionate
+about creating eﬃcient, user-focused solutions and eager to contribute technical skills to innovative
+software development projects.
+Technical Skills
+• Languages: HTML, CSS, JavaScript, C, C++, SQL
+• Frameworks & Libraries: React
+• Tools: Git, GitHub, VS Code
+• Concepts: Web Development, Database Management, Version Control
+Technical Projects
+AfriCharge
+JavaScript, React, Flask, SQL | 2025 | github.com/HanadAlly/Afri-charge
+• Developed a web application to manage electric vehicle charging stations, integrating frontend
+with React and backend with Flask.
+• Implemented JWT authentication and database-driven features, enabling secure user login and
+payment tracking.
+• Optimized API endpoints, improving response time by 15% for enhanced user experience.
+Library Management System
+github.com/HanadAlly/library-project
+Python, SQL, Flask | 2024 |
+• Built a web-based system to manage library resources, including book checkouts and user ac-
+counts.
+• Designed a SQL database with relational tables, streamlining data retrieval and management
+processes.
+• Deployed application with Flask, achieving 100% uptime and accessibility for multiple users.
+Work Experience
+IT Intern
+JKUAT, Nakuru, Kenya | June 2023 – August 2023
+• Assisted in maintaining campus IT infrastructure, troubleshooting hardware and software issues
+for 50+ users.
+• Developed scripts in C to automate system diagnostics, reducing manual checks by 30%.
+• Collaborated with IT team to implement network security updates, enhancing system reliability.
+Education
+Software Engineering
+Moringa School, Nairobi, Kenya | Expected Graduation: 2025
+Diploma in Information Technology
+Technology (JKUAT), Nakuru, Kenya | 2023Jomo Kenyatta University of Agriculture and
+Certiﬁcate in Information Technology
+Technology (JKUAT), Nakuru, Kenya | 2022Jomo Kenyatta University of Agriculture and
+Kenya Certiﬁcate of Secondary EducationKericho High School, Kericho, Kenya | 2022
+1
